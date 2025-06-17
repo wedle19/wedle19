@@ -51,7 +51,7 @@ I'm leading a team of passionate professionals at **Wedle** — a creative unit 
 ### 🔗 Let’s Connect!
 
 - 🌐 [Team Site](https://wedle.com)
-- 💬 [LinkedIn](https://linkedin.com/in/muhammadshah) *(optional)*
+- 💬 [LinkedIn](https://linkedin.com/in/muhammadshah)
 - 📧 Email: `mshah123451@gmail.com`
 
 ---
