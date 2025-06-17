@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, I'm Muhammad Shah</h1>
-<h3 align="center">🚀 Team Lead @ Wedle | Full Stack Dev | Tech Organizer</h3>
+<h3 align="center">🚀 Team Lead @ Wedle-tech | Full Stack Dev | Tech Organizer</h3>
 
 ---
 
 ### 💡 About Me
 
-I'm leading a team of passionate professionals at **Wedle** — a creative unit of developers, designers, AI enthusiasts, and innovators 🚀. We collaborate to build digital products that combine **user-centric design**, **powerful code**, and **intelligent systems**.
+I'm leading a team of passionate professionals at **Wedle-tech** — a creative unit of developers, designers, AI enthusiasts, and innovators 🚀. We collaborate to build digital products that combine **user-centric design**, **powerful code**, and **intelligent systems**.
 
 ---
 
@@ -41,7 +41,7 @@ I'm leading a team of passionate professionals at **Wedle** — a creative unit 
 
 | Project Name | Tech Stack | Live Demo |
 |--------------|------------|-----------|
-| 💼 Team Portfolio | React, Tailwind | [Live Link](https://wedle.com) |
+| 💼 Team Portfolio | React, Tailwind | [Live Link](https://wedletech.com) |
 | 🤖 AI Face Detector | Python, OpenCV, ML | *(coming soon)* |
 | 🧠 ML Prediction API | Flask, TensorFlow | *(coming soon)* |
 | 🌐 Cybersecurity Awareness | HTML, JS | *(coming soon)* |
@@ -50,7 +50,7 @@ I'm leading a team of passionate professionals at **Wedle** — a creative unit 
 
 ### 🔗 Let’s Connect!
 
-- 🌐 [Team Site](https://wedle.com)
+- 🌐 [Team Site](https://wedletech.com)
 - 💬 [LinkedIn](https://linkedin.com/in/muhammadshah)
 - 📧 Email: `mshah123451@gmail.com`
 
